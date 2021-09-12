@@ -12,3 +12,7 @@ Sample Text.
 *Italic*
 
 [Home page]({{< ref "/" >}} "Home Page Link")
+
+[Home page](/ "Home Page Link")
+
+
