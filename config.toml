@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Hugo Getting-Started"
+languageCode = "en-au"
+title = "Hugo Tutorial Getting Started"
 
 [markup.goldmark.renderer]
 unsafe = true

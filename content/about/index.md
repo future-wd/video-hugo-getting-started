@@ -1,8 +1,7 @@
 ---
 title: "About"
-date: 2021-09-11T20:17:13+10:00
+date: 2021-09-12T18:24:17+10:00
 draft: false
-subtitle: Your local business since 2001
 ---
 
 Sample Text.
@@ -12,7 +11,3 @@ Sample Text.
 *Italic*
 
 [Home page]({{< ref "/" >}} "Home Page Link")
-
-[Home page](/ "Home Page Link")
-
-
