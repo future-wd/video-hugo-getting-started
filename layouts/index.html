@@ -1,0 +1,7 @@
+{{ define "main" }}
+<h2>{{ .Title }}</h1>
+{{ with .Params.subtitle }}
+<h3 class="text-muted">{{ . }}</h3>
+{{ end }}
+{{ .Content | markdownify }}
+{{ end }}
