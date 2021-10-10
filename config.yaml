@@ -1,0 +1,8 @@
+baseURL: "http://example.org/"
+languageCode: en-au
+title: Hugo Tutorial Getting Started
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
