@@ -1,6 +1,6 @@
 baseURL: "http://example.org/"
 languageCode: en-au
-title: Hugo Tutorial Getting Started
+title: Getting Started
 
 markup:
   goldmark:
