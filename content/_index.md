@@ -1,16 +1,25 @@
 ---
 title: "Home"
-date: 2021-09-12T18:20:26+10:00
+date: 2021-12-26T16:13:11-05:00
 draft: false
+# subtitle: Learning basic Hugo concepts.
 ---
-Sample Content
+Hugo supports markdown, which enables you to do many things including **bold**, *italic*, and these examples below.
 
-**Bold Heading**
+## Unordered lists
 
-- List 1
+- Item 1
+- Item 2
+- Item 3
 
-- List 2
+## Ordered Lists
 
-- List 3
+1. Item 1
+2. Item 2
+3. Item 3.
 
-[About Page]({{< ref "about/" >}} "About us link")
+## Link
+
+[google](www.google.com)
+
+<a class="btn btn-primary" href="#" role="button">Link</a>

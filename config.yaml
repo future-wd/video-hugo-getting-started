@@ -1,8 +1,13 @@
-baseURL: "http://example.org/"
-languageCode: en-au
-title: Getting Started
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  slogan: "Super Fast!"
+
+
